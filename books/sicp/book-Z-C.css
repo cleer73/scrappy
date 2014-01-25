@@ -1,0 +1,53 @@
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  margin: 2em;
+  padding: 0px;
+  line-height: 1.5em;
+}
+
+h1, h2, h3 {
+  margin: 0px;
+  margin-bottom: 24px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-top: 24px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-top: 28px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-top: 32px;
+}
+
+p {
+  margin: 0px;
+  margin-bottom: 1.5em;
+
+}
+
+pre {
+  margin: 0px;
+  margin-bottom: 1.5em;
+  padding: 1em;
+  background-color: #eee;
+  border-radius: .5em;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+table.center-cells td {
+  text-align: center;
+}
+
+pre td, pre th {
+  font-family: inherit;
+  font-size: 16px;
+}
+
